@@ -13,7 +13,7 @@ remote: HINT: This occurs when Heroku cannot detect the buildpack
 remote:       to use for this application automatically.
 remote: See https://devcenter.heroku.com/articles/buildpacks
 }
-  Troubleshooting steps: Compared related files with the keys used
+  Troubleshooting steps: Compared related files with those on the learnhowtoprogram site. Attempted to rebundle Gemfile. Searched heroku page. Checked heroku config in terminal to check for incorrectly set vars (one of the issues people had) with no success. Still resulting in same error.
 
 Created by: Michael Summers
 Copyright: No copyright held by Michael Summers. Any and all copyrights held by other owners of related technologies should not be violated in the use of this program.
