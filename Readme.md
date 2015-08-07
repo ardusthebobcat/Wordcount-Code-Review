@@ -5,6 +5,16 @@ Version: 1.0
 
 Heroku address: https://git.heroku.com/still-ravine-2414.git
 
+HEROKU BUGS:
+
+{      ERROR:
+remote:  !     Push rejected, no Cedar-supported app detected
+remote: HINT: This occurs when Heroku cannot detect the buildpack
+remote:       to use for this application automatically.
+remote: See https://devcenter.heroku.com/articles/buildpacks
+}
+  Troubleshooting steps: Compared related files with the keys used
+
 Created by: Michael Summers
 Copyright: No copyright held by Michael Summers. Any and all copyrights held by other owners of related technologies should not be violated in the use of this program.
 License information: None held
