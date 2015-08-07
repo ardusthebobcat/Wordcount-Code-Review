@@ -11,6 +11,8 @@ class String
     word_search = word_search.downcase
 
     #initialize counter
+    #Reasoning for using short counter var is to identify counter vars at a glance
+    #may be considered bad habit, but it takes me way more time to find counter vars when they have long names
     i = 0
 
     #searches entire word for parameter, adds to word_instances
